@@ -1,4 +1,4 @@
-# Análise de Dados com Python
+# Modelo de Regressão Linear com Python
 
 #### Nesse código foi utilizada uma tabela de casas a venda nos EUA e com o uso da Regressão Linear
 #### encontrar a casa ideal.
